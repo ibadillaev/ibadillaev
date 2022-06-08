@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ibadillaev Doston
-- 👀 I’m interested in AI and finance
-- 🌱 I’m currently learning python web-dev
+- 👀 I’m interested in Data Science AI and Finance
+- 🌱 I’m currently learning Data science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ibadillaevd@gmail.com
 
